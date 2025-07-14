@@ -221,3 +221,60 @@ nav ul li a:hover{
     font-size: 16px;
     line-height: 28px;
 }
+/* summary */
+
+.summary{
+    padding: 0px 200px 130px 200px;
+}
+
+.summary-tittle{
+    text-align: center;
+    margin-bottom: 130px;
+}
+
+.resume{
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+}
+
+
+.resume-colum-tittle{
+    color: #474747;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.expreience-tittle{
+    color: #474747;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 30px;
+
+}
+
+.expreience-sub-tittle{
+    color: #757575;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 10px;
+
+}
+
+.expreience-description{
+    color: #757575;
+    font-size: 16px;
+    line-height: 28px;
+    margin: 20px 0px 30px 0px;
+
+}
+
+.resume-colum hr{
+    color: #D1D1D1;
+
+}
+
+.resume-button{
+    text-align: center;
+    margin-top: 50px;
+}
