@@ -137,7 +137,10 @@ nav ul li a:hover{
 /* about */
 
 .about{
-    padding: 130px 200px;
+    /* padding: 130px 200px; */
+    max-width: 1140px;
+    margin: 0px auto;
+    margin-top: 130px;
 }
 
 .about-content{
