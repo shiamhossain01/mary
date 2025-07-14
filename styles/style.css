@@ -278,3 +278,47 @@ nav ul li a:hover{
     text-align: center;
     margin-top: 50px;
 }
+/* footer */
+
+.footer-container{
+    display: flex;
+    justify-content: space-between;
+    gap: 117px;
+    padding: 130px 200px;
+    background-color: #FFF8F3;
+}
+
+.footer-content p{
+    color: #474747;
+    font-size: 16px;
+    line-height: 28px;
+    margin: 20px 0px 30px 0px;
+}
+
+input[type="text"], input[type="email"]{
+    width: 461px;
+    height: 64px;
+    border: none;
+    border-radius: 5px;
+    color: #757575;
+    font-size: 16px;
+    line-height: 28px;
+    padding: 18px 0px 18px 30px;
+    margin-bottom: 24px;
+}
+
+textarea{
+    width: 461px;
+    height: 180px;
+    border: none;
+    border-radius: 5px;
+    color: #757575;
+    font-size: 16px;
+    line-height: 28px;
+    padding: 18px 0px 18px 30px;
+    margin-bottom: 24px;
+}
+
+.icon-image{
+    margin: 0px 24px;
+}
